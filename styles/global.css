@@ -5,29 +5,29 @@
 }
 
 :root {
-  --main-color-red: #E3646E;
-  --main-color-purple: #BB72E9;
-  --main-color-blue: #3996DB;
-  --main-color-green: #82BC4F;
-  --main-color-yellow: #EABD5F;
+  --main-red: #E3646E;
+  --main-purple: #BB72E9;
+  --main-blue: #3996DB;
+  --main-green: #82BC4F;
+  --main-yellow: #EABD5F;
 
-  --base-color-100: #E2E4E9;
-  --base-color-200: #C0C4CE;  
-  --base-color-300: #878EA1;
-  --base-color-400: #292C34;
-  --base-color-500: #16181D;
-  --base-color-600: #0D0E11;
+  --base-gray-100: #E2E4E9;
+  --base-gray-200: #C0C4CE;  
+  --base-gray-300: #878EA1;
+  --base-gray-400: #292C34;
+  --base-gray-500: #16181D;
+  --base-gray-600: #0D0E11;
+  
+  /*fontes*/
+--font-family-Asap: "Asap", sans-serif;
+--title-lg: bold 3.5rem/1.5 var(--font-family-Asap);
+--title-md: bold 1.5rem/1.5 var(--font-family-Asap); 
+--title-sm: bold 1rem/1.5 var(--font-family-Asap);
 
+--font-family-inconsolata: "Inconsolata", monospace;
+--subtitle: 1.25rem/120% var(--font-family-inconsolata);
 
-  --font-family: 'asap';
-  --title-lg: 56px 120% bold;
-  --title-md: 24px 120% bold;
-  --title-sm: 16px 120% bold;
-
-  --font-family: 'incosolata';
-  --subtitle: 20px 120%;
-
-  --font-family: 'maven pro';
-  --text-md: 16px 140%;
-  --text-sm: 14px 140%;
+--font-family-MavenPro: "Maven Pro", sans-serif;
+--text-md: 1rem/140% var(--font-family-MavenPro);
+--text-sm: .875rem/140% var(--font-family-MavenPro);
 }
