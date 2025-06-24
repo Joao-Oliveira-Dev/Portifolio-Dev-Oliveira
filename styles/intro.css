@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   flex-wrap: wrap;
+  text-decoration: none;
 }
 
 .intro {
@@ -39,7 +40,7 @@
   flex-direction: column;
   align-items: center;
 
-  p{
+  p {
     font: var(--subtitle);
     color: var(--base-gray-200);
     margin-bottom: 8px;
