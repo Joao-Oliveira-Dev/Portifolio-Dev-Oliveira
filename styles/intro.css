@@ -17,20 +17,19 @@
     align-items: center;
 
     .avatar {
-      img {
+      img:first-of-type {
       border-radius: 100%;
       border-color: var(--main-red);
       border-width: 5px;
       border-style:solid ;
-      
-      position: relative;
     }
   }
 
     .icone {
-      position: absolute;
-      bottom: 0;
-      right: 1px;
+      height: 40px;
+      position: relative;
+      bottom: 0px;
+      right: 30px;
     }
   }
 }
@@ -64,3 +63,35 @@
     margin: 20px 80px;
   }
 }
+
+.badges {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+
+
+    .content-icons { 
+      display: flex;
+      background-color: var(--base-gray-400);
+      border-radius: 999px;
+      padding: 12px 20px;
+      align-items: center;
+      gap: 8px;
+    }
+
+      img {
+        width: 26px;
+        height: 26px;
+   }
+  
+      span {
+        font: var(--text-md);
+        color: var(--base-gray-200);
+      }
+
+      img span {
+        align-self: center;
+      }
+  }
+  
+
