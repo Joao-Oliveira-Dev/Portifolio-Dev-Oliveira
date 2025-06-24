@@ -29,7 +29,7 @@ main {
   }
 
   .services {
-    background-color: var(--base-gray-100);
+    background-color: var(--base-gray-600);
     padding: 88px 120px 120px 120px;
 
     .box {
