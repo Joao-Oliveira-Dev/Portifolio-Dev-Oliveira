@@ -14,6 +14,8 @@ Um portifólio DEV tem como principal função, hospedar e ter exemplos dos meus
 não apenas ter uma visualição, mas maior compreensão de tecnologias e técnicas usadas neste ou em quaisquer projetos futuros!!
 
 <br>
+<br>
+<br>
 
 <h1> 🛠️ Tecnologias usadas </h1>
 
@@ -23,7 +25,7 @@ não apenas ter uma visualição, mas maior compreensão de tecnologias e técni
   <li> JavaScrypt - Responsividade e adaptabilidade para dispositivos móveis (Interatividade) </li>
 </ul>
 
-<br> 
+<br>
 
 <h1> 🌐 Como visualizar o Projeto? </h1> 
 
@@ -32,6 +34,7 @@ não apenas ter uma visualição, mas maior compreensão de tecnologias e técni
  Ou se preferir você clicar <a href="https://joao-oliveira-dev.github.io/Portifolio-Dev-Oliveira/">Aqui!</a>
 
  E aqui se encontra o link por extenso: https://joao-oliveira-dev.github.io/Portifolio-Dev-Oliveira/
+
 <br>
 
 <h1> 📩 Formas de contato! </h1>
