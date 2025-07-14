@@ -5,7 +5,8 @@ Projeto feito como parte dos estudos de FullStack da Rockeatseat, sendo essa, a 
 
 <br>
 
-![image](https://github.com/user-attachments/assets/52f4d060-40ca-4a8e-a5a6-da450ae9a769)
+<img width="1075" height="597" alt="image" src="https://github.com/user-attachments/assets/3f3ca5ee-1058-465a-aa03-d839e14eec1f" />
+
 
 <br>
 
