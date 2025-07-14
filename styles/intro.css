@@ -18,6 +18,10 @@
     align-items: center;
 
     .avatar {
+      align-items: center;
+      padding-left: 4.5rem;
+      padding-top: 2rem;
+      
       img:first-of-type {
       border-radius: 100%;
       border-color: var(--main-red);
@@ -109,7 +113,6 @@
   }
 
   @media only screen and (max-width: 768px) {
-
 
   .intro {
 
