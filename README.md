@@ -23,7 +23,6 @@ não apenas ter uma visualição, mas maior compreensão de tecnologias e técni
  <ul> 
   <li> HTML - Estrutura e construção do site (O esqueleto do projeto) </li>
   <li> CSS - Estilização e parte visual (O design) </li>
-  <li> JavaScrypt - Responsividade e adaptabilidade para dispositivos móveis (Interatividade) </li>
 </ul>
 
 <br>
