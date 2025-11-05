@@ -21,8 +21,8 @@ não apenas ter uma visualição, mas maior compreensão de tecnologias e técni
 <h1> 🛠️ Tecnologias usadas </h1>
 
  <ul> 
-  <li> HTML - Estrutura e construção do site (O esqueleto do projeto) </li>
-  <li> CSS - Estilização e parte visual (O design) </li>
+  <li> - HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </li>
+  <li> - CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </li>
 </ul>
 
 <br>
